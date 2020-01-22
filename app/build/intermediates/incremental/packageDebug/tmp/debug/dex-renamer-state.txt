@@ -1,0 +1,4 @@
+#Wed Jan 22 11:40:56 CST 2020
+base.0=/Users/ccruzlo/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

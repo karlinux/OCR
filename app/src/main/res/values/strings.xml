@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Acceso a la cámara es necesario para la detección</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">OCR dependencies no podra descargar due to low device storage</string>
+    <string name="title_activity_main">OCR Detector</string>
+    <string name="ocr_header">Click en DETECTAR TEXTO</string>
+    <string name="read_text">Detectar Texto</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Lectura de texto completo</string>
+    <string name="ocr_failure">Texto no capturado</string>
+    <string name="ocr_error">"Error al leer el texto: %1$s"</string>
+</resources>
